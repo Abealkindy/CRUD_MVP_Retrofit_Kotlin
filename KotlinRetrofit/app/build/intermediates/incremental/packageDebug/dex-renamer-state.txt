@@ -1,0 +1,7 @@
+#Wed Aug 23 16:44:03 ICT 2017
+base.0=D\:\\File Abe\\File RPL\\Backup Project\\Android Studio\\KotlinRetrofit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1f81a9bb85d27c4d8f5842a8df1f4ff63c534c3a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\File Abe\\File RPL\\Backup Project\\Android Studio\\KotlinRetrofit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_035a5e9ae9491bd382ab68bd0e32c00ed805ee0f\\classes.dex
+base.1=D\:\\File Abe\\File RPL\\Backup Project\\Android Studio\\KotlinRetrofit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_035a5e9ae9491bd382ab68bd0e32c00ed805ee0f
+file.0=D\:\\File Abe\\File RPL\\Backup Project\\Android Studio\\KotlinRetrofit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1f81a9bb85d27c4d8f5842a8df1f4ff63c534c3a\\classes.dex

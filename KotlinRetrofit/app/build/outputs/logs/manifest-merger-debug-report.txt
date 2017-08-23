@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\KOCHOR\.android\build-cache\f765fc8cd2c08853bb1ca049eb02d97cc27be9bc\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\add11f66286fa5e9bf3b2dbfd7094d1eaedf8427\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\363c52d3eba77b6fd0a835683b702695c3719410\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\1ea277294c7c93eb77a2757db6bc3e3120e157db\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\a2b5d161f69edf9a457b0346b8cb6d061f9e348e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\74378f851c0022a8bfd07730185b36d4cb4ef60c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\9cadc3ad7933fe4a234eca5510f6b6bccb79ca15\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\b65115ae3b97efb14fffa2e11ce05998b425c897\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\c3b94671138a7c7fd5cfb415b0888b7a3327179e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\ddccfcaeab4268eb73f30f3607a14bca9c68e459\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\2c3f6057bd29af5480453921b822228c7ad27f15\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\dd390ceb091d94b933ae4cfa679238cc586721f5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\4fa993d5d7443d40dd266508ca5c6857d2266e4c\output\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.abraham24.kotlinretrofit.RecyclerView.MainActivity
+ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:14:19-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.abraham24.kotlinretrofit.MVPDeleteAndUpdate.TambahActivity
+ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:21:9-71
+	android:name
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:21:19-68
+activity#com.abraham24.kotlinretrofit.MVPDeleteAndUpdate.UpdateAndDeleteActivity
+ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:22:9-89
+	android:name
+		ADDED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml:22:19-77
+uses-sdk
+INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\KOCHOR\.android\build-cache\f765fc8cd2c08853bb1ca049eb02d97cc27be9bc\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\add11f66286fa5e9bf3b2dbfd7094d1eaedf8427\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\363c52d3eba77b6fd0a835683b702695c3719410\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\1ea277294c7c93eb77a2757db6bc3e3120e157db\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\a2b5d161f69edf9a457b0346b8cb6d061f9e348e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\f5bd2de888f5ce47ed52a08bd281cabc9f03f934\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\74378f851c0022a8bfd07730185b36d4cb4ef60c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\9cadc3ad7933fe4a234eca5510f6b6bccb79ca15\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\b65115ae3b97efb14fffa2e11ce05998b425c897\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\c3b94671138a7c7fd5cfb415b0888b7a3327179e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\ddccfcaeab4268eb73f30f3607a14bca9c68e459\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\2c3f6057bd29af5480453921b822228c7ad27f15\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\dd390ceb091d94b933ae4cfa679238cc586721f5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\4fa993d5d7443d40dd266508ca5c6857d2266e4c\output\AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\add11f66286fa5e9bf3b2dbfd7094d1eaedf8427\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml
+		INJECTED from D:\File Abe\File RPL\Backup Project\Android Studio\KotlinRetrofit\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\add11f66286fa5e9bf3b2dbfd7094d1eaedf8427\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\363c52d3eba77b6fd0a835683b702695c3719410\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\1ea277294c7c93eb77a2757db6bc3e3120e157db\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\a2b5d161f69edf9a457b0346b8cb6d061f9e348e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\f5bd2de888f5ce47ed52a08bd281cabc9f03f934\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\74378f851c0022a8bfd07730185b36d4cb4ef60c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\9cadc3ad7933fe4a234eca5510f6b6bccb79ca15\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\b65115ae3b97efb14fffa2e11ce05998b425c897\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\c3b94671138a7c7fd5cfb415b0888b7a3327179e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\ddccfcaeab4268eb73f30f3607a14bca9c68e459\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\2c3f6057bd29af5480453921b822228c7ad27f15\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\dd390ceb091d94b933ae4cfa679238cc586721f5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\4fa993d5d7443d40dd266508ca5c6857d2266e4c\output\AndroidManifest.xml:22:5-24:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\add11f66286fa5e9bf3b2dbfd7094d1eaedf8427\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\KOCHOR\.android\build-cache\add11f66286fa5e9bf3b2dbfd7094d1eaedf8427\output\AndroidManifest.xml:26:9-47
